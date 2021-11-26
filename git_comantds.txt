@@ -1,0 +1,7 @@
+1) git init 
+инициализация
+2) git config --global user.name"Pavel"
+   git confog --global user.email mezencev24@mai.ru
+
+настройка закончена
+git status -проверка статуса
